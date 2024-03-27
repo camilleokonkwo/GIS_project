@@ -1,0 +1,511 @@
+measure_id,measure_name,location_id,location_name,race_group,sex_id,sex_name,age_group_id,age_group_name,year_id,metric_id,metric_name,val,upper,lower
+25,Maternal mortality ratio,523,Alabama,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.670167129,10.43158386,7.208661097
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,44.80177808,54.61160142,36.49498285
+25,Maternal mortality ratio,523,Alabama,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,17.97454672,22.00026125,14.75589056
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,35.89935667,41.89997621,30.14704559
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.61128791,16.78761431,11.15849516
+25,Maternal mortality ratio,523,Alabama,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.00659539,19.90226668,12.98109923
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,79.41946703,96.86568149,65.39147407
+25,Maternal mortality ratio,523,Alabama,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,28.33429189,33.93759395,23.37190511
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,66.53578555,73.22527711,60.52756053
+25,Maternal mortality ratio,523,Alabama,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,31.83719576,35.47803942,28.91494418
+25,Maternal mortality ratio,524,Alaska,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,14.14444264,17.14082882,11.67179954
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,14.10386722,17.32422681,11.42046436
+25,Maternal mortality ratio,524,Alaska,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.48290292,16.21175923,11.16749477
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,28.20877435,41.65613781,19.27183392
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.60384844,16.80026916,11.01223108
+25,Maternal mortality ratio,524,Alaska,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.49528405,20.35103846,13.71510265
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,24.43167644,34.84273635,17.05256634
+25,Maternal mortality ratio,524,Alaska,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,15.18575799,18.6150718,12.37447121
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,32.97589248,45.48366992,24.59569792
+25,Maternal mortality ratio,524,Alaska,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,17.38547698,20.85359418,14.63022209
+25,Maternal mortality ratio,525,Arizona,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.31651847,13.29957819,9.518576097
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,16.23413677,20.44604879,12.95567685
+25,Maternal mortality ratio,525,Arizona,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.43919186,16.6531255,10.97618383
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,26.50936102,36.65688675,19.45956254
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.50720293,15.83891035,9.859219544
+25,Maternal mortality ratio,525,Arizona,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.69101242,23.94187695,16.09670203
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,40.33500207,64.4493909,24.61630618
+25,Maternal mortality ratio,525,Arizona,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.57615789,25.06842198,16.90929272
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,44.11501294,61.52874281,30.6792979
+25,Maternal mortality ratio,525,Arizona,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,23.94532753,27.61145286,20.68204892
+25,Maternal mortality ratio,526,Arkansas,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.6629797,13.05828434,8.791471414
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,26.81966688,32.66390725,21.79954301
+25,Maternal mortality ratio,526,Arkansas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.56062915,18.79807412,12.62134433
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,36.69552875,42.15834311,31.53975937
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,17.98460251,24.16916741,13.39431533
+25,Maternal mortality ratio,526,Arkansas,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.31875806,25.05305209,16.38665079
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,43.97306153,53.27417048,35.987124
+25,Maternal mortality ratio,526,Arkansas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.92812522,25.41088883,16.92467278
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,71.03915972,90.82550323,57.13264985
+25,Maternal mortality ratio,526,Arkansas,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,35.80027563,42.81179783,29.38546969
+25,Maternal mortality ratio,527,California,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,15.33674388,15.91553549,14.72271162
+25,Maternal mortality ratio,527,California,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,31.11012566,38.27778752,25.58421878
+25,Maternal mortality ratio,527,California,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.89236566,16.76622092,13.12097755
+25,Maternal mortality ratio,527,California,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,48.77270053,53.33064616,45.01822591
+25,Maternal mortality ratio,527,California,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,17.68237388,18.50808583,16.83756936
+25,Maternal mortality ratio,527,California,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,15.54565202,16.59919798,14.54447284
+25,Maternal mortality ratio,527,California,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,35.82638474,49.98930078,25.47103445
+25,Maternal mortality ratio,527,California,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,17.03328866,19.31179159,14.90486483
+25,Maternal mortality ratio,527,California,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,55.39104358,61.93789107,49.95469674
+25,Maternal mortality ratio,527,California,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,18.64781749,20.78841039,16.69914627
+25,Maternal mortality ratio,528,Colorado,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,12.65397778,14.60800755,10.64069829
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,25.39247807,31.21636416,20.76731578
+25,Maternal mortality ratio,528,Colorado,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.34567279,17.28513062,12.0222767
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,28.55454917,38.61895808,21.20541106
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.96636492,16.94153124,10.28780872
+25,Maternal mortality ratio,528,Colorado,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.780908,19.45587838,14.37766433
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,37.8726317,52.76336937,27.79146098
+25,Maternal mortality ratio,528,Colorado,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.42491075,22.48996093,14.98720573
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,38.30941384,51.85310384,28.08765468
+25,Maternal mortality ratio,528,Colorado,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,19.25305255,21.93755088,16.92738088
+25,Maternal mortality ratio,529,Connecticut,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,15.33908291,18.4388397,12.67824382
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,11.72489595,16.40951501,8.470822956
+25,Maternal mortality ratio,529,Connecticut,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.15314159,17.17314698,10.01300257
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,45.25715061,56.73123199,36.16954935
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.42059681,15.36205426,10.03450822
+25,Maternal mortality ratio,529,Connecticut,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,23.99212519,28.93366716,20.1570772
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,21.35392117,27.72414587,16.11827208
+25,Maternal mortality ratio,529,Connecticut,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,19.37778433,23.30095687,15.90776029
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,62.73132591,83.71560695,48.22162867
+25,Maternal mortality ratio,529,Connecticut,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,26.05769318,30.27895084,22.43560538
+25,Maternal mortality ratio,530,Delaware,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.20063314,12.49983234,8.317183984
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,30.1623525,38.5989782,23.85991355
+25,Maternal mortality ratio,530,Delaware,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.54776073,17.70637737,12.07226457
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,37.93322832,45.15195506,32.04628377
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.89187694,19.22607898,13.1894048
+25,Maternal mortality ratio,530,Delaware,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.48647299,26.18988953,15.86670994
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,72.24973913,98.06441129,53.34566131
+25,Maternal mortality ratio,530,Delaware,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.0288333,28.19288138,18.94838066
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,63.58599024,78.2066562,52.01934877
+25,Maternal mortality ratio,530,Delaware,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,32.18456639,40.83528824,24.72858855
+25,Maternal mortality ratio,531,District of Columbia,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,13.16038511,15.87961278,10.69666147
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,44.07996234,74.76984403,25.63849367
+25,Maternal mortality ratio,531,District of Columbia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,31.26407202,38.56888506,25.4321349
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,50.58800508,71.12527393,35.14561405
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,20.36668386,24.44071744,16.6014786
+25,Maternal mortality ratio,531,District of Columbia,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.94161734,23.84930308,15.09830434
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,60.60999592,80.25922615,46.03338888
+25,Maternal mortality ratio,531,District of Columbia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,32.95810422,40.19771864,27.000393
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,64.34419997,79.07751916,53.35228835
+25,Maternal mortality ratio,531,District of Columbia,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,33.7285664,43.98350311,26.52546162
+25,Maternal mortality ratio,532,Florida,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,14.77103997,17.73835391,12.52187302
+25,Maternal mortality ratio,532,Florida,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,25.0002995,30.01845836,20.56769202
+25,Maternal mortality ratio,532,Florida,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,18.16525524,21.32340964,15.00534702
+25,Maternal mortality ratio,532,Florida,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,38.6709435,43.33527493,34.93858733
+25,Maternal mortality ratio,532,Florida,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,16.46598711,17.76629741,15.28373868
+25,Maternal mortality ratio,532,Florida,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.72126163,26.63499814,16.32414464
+25,Maternal mortality ratio,532,Florida,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,88.7447996,108.3717558,72.20976231
+25,Maternal mortality ratio,532,Florida,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,32.13475489,37.65145103,27.5944433
+25,Maternal mortality ratio,532,Florida,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,55.01838376,59.40570676,50.82460408
+25,Maternal mortality ratio,532,Florida,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,30.18673402,33.45615945,27.3940215
+25,Maternal mortality ratio,533,Georgia,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.319335293,11.64806949,7.438324809
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,30.93837994,37.99376625,25.47405919
+25,Maternal mortality ratio,533,Georgia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.99695263,18.95696178,13.30424977
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,43.54497711,48.2257752,39.1843443
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.84069364,15.60772731,12.39506862
+25,Maternal mortality ratio,533,Georgia,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.30817249,23.66801099,17.27988959
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,80.14511329,97.38613736,66.2313174
+25,Maternal mortality ratio,533,Georgia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,29.28389026,34.75292419,24.51864607
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,84.69011347,92.1881145,78.14601635
+25,Maternal mortality ratio,533,Georgia,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,43.86223377,50.52975217,38.45877266
+25,Maternal mortality ratio,534,Hawaii,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.51261278,13.98460627,9.432331106
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,14.65980683,18.1738343,11.94627375
+25,Maternal mortality ratio,534,Hawaii,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.33499656,19.57703737,13.44795375
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,24.96462529,36.70667169,16.96823957
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.94072426,18.2667543,12.45883822
+25,Maternal mortality ratio,534,Hawaii,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,13.3052221,16.37234277,10.83889048
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,34.50561154,49.59202086,24.63599962
+25,Maternal mortality ratio,534,Hawaii,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.71123032,24.99011977,16.96238202
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,27.43285803,38.06211708,20.00644195
+25,Maternal mortality ratio,534,Hawaii,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,16.30088488,19.62488777,13.52146941
+25,Maternal mortality ratio,535,Idaho,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,12.17389451,14.79064338,10.20001822
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,19.61731893,25.05219203,15.69958002
+25,Maternal mortality ratio,535,Idaho,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.07812066,17.16318872,11.77854164
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,32.53010385,48.40027482,21.62232069
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.81565475,20.72298155,10.6175204
+25,Maternal mortality ratio,535,Idaho,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.06900716,19.96901568,12.81565194
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,30.95083841,44.33343637,22.00078963
+25,Maternal mortality ratio,535,Idaho,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.3238723,22.5734475,15.02114337
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,31.19931307,44.2171691,22.27531541
+25,Maternal mortality ratio,535,Idaho,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.81722109,27.60978342,15.66151588
+25,Maternal mortality ratio,536,Illinois,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.374689229,10.77588188,8.136836046
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,26.45421954,33.22782685,20.93734155
+25,Maternal mortality ratio,536,Illinois,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.26412241,15.38361765,9.964831096
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,37.35523018,41.86944137,33.4646499
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.17233484,13.95385634,10.68910896
+25,Maternal mortality ratio,536,Illinois,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.27635525,23.86853934,15.74441747
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,75.3900452,101.0408066,56.43987354
+25,Maternal mortality ratio,536,Illinois,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.45505881,27.62878876,19.8624702
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,50.20505651,54.99923025,45.27651626
+25,Maternal mortality ratio,536,Illinois,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,22.34443156,26.5017591,18.88497816
+25,Maternal mortality ratio,537,Indiana,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.434758288,10.22632436,6.892366048
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,32.83590374,41.46058347,26.53523316
+25,Maternal mortality ratio,537,Indiana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.48495209,16.73021828,10.98160679
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,27.75557501,36.1859903,21.31177897
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,10.87258772,12.98367057,9.17094109
+25,Maternal mortality ratio,537,Indiana,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.99667802,23.80776441,16.78689162
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,82.24738271,111.0456388,61.33316052
+25,Maternal mortality ratio,537,Indiana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.14474033,28.40081068,19.32205337
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,52.76963615,63.62559439,44.32686448
+25,Maternal mortality ratio,537,Indiana,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,42.49483826,53.5444123,33.43473575
+25,Maternal mortality ratio,538,Iowa,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.720935922,10.61475518,7.208872532
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,12.12269506,14.79185813,9.755695323
+25,Maternal mortality ratio,538,Iowa,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,11.59476669,14.27585423,9.54682742
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,27.95697061,33.62962286,23.10550352
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.05000718,13.96705792,10.41464922
+25,Maternal mortality ratio,538,Iowa,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,17.14208805,20.55826378,14.24358356
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,28.36104334,38.32033753,21.08034939
+25,Maternal mortality ratio,538,Iowa,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.27978624,24.75977244,16.62768077
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,36.05763871,43.97919778,29.91238464
+25,Maternal mortality ratio,538,Iowa,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,23.95257791,27.26224908,21.07702479
+25,Maternal mortality ratio,539,Kansas,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.435428063,11.86580846,7.710806013
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,18.42435213,23.23003484,14.56214618
+25,Maternal mortality ratio,539,Kansas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.05234029,14.60149384,9.780365367
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,31.15266988,37.21896247,25.93473373
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.11947096,16.03395125,10.73862925
+25,Maternal mortality ratio,539,Kansas,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.45506946,22.17966189,15.09144071
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,57.37143904,75.97389224,42.60078274
+25,Maternal mortality ratio,539,Kansas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.29665346,28.44811913,19.39458666
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,48.32020964,57.91673491,40.00235897
+25,Maternal mortality ratio,539,Kansas,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,26.00492877,29.5580739,22.98590052
+25,Maternal mortality ratio,540,Kentucky,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.48037871,12.7655801,8.650332345
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,32.19223429,39.88291162,26.2487818
+25,Maternal mortality ratio,540,Kentucky,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.45717252,18.54339733,12.59443918
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,38.75498094,45.72453052,33.16229719
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.8832465,16.56191995,13.24572228
+25,Maternal mortality ratio,540,Kentucky,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,17.46872266,21.77415267,14.04035633
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,64.19912935,78.83556061,51.93901766
+25,Maternal mortality ratio,540,Kentucky,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,24.22798837,29.63770361,19.49849029
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,65.40033623,75.77119673,56.60056276
+25,Maternal mortality ratio,540,Kentucky,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,33.70655547,37.10702241,30.51173055
+25,Maternal mortality ratio,541,Louisiana,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,17.72308121,21.3150374,14.59382919
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,21.18019282,26.06737682,17.75428269
+25,Maternal mortality ratio,541,Louisiana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.99888405,20.70111255,14.11247394
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,32.99693921,37.37389414,29.07519678
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.35899976,16.35096515,12.51839065
+25,Maternal mortality ratio,541,Louisiana,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.29125001,22.87898561,14.61471796
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,45.86030713,55.57228914,38.33962383
+25,Maternal mortality ratio,541,Louisiana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,24.60663061,29.87760281,20.2018703
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,75.90433845,93.05556203,63.89003162
+25,Maternal mortality ratio,541,Louisiana,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,34.80282337,40.62106954,29.12610713
+25,Maternal mortality ratio,542,Maine,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,21.29243913,25.71838743,17.80681197
+25,Maternal mortality ratio,542,Maine,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,20.12532047,27.92588602,14.47481861
+25,Maternal mortality ratio,542,Maine,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.32065088,19.89685797,11.99663887
+25,Maternal mortality ratio,542,Maine,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,33.03116252,41.06042877,26.61698495
+25,Maternal mortality ratio,542,Maine,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.10369213,15.98422848,8.842676472
+25,Maternal mortality ratio,542,Maine,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,33.97440678,41.96668591,27.9476896
+25,Maternal mortality ratio,542,Maine,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,28.48690015,37.30484124,21.21283835
+25,Maternal mortality ratio,542,Maine,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,22.67130422,27.72889844,18.28806086
+25,Maternal mortality ratio,542,Maine,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,39.17045132,52.16017941,29.79347089
+25,Maternal mortality ratio,542,Maine,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,23.38808668,27.26821984,19.81317762
+25,Maternal mortality ratio,543,Maryland,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,13.08015413,15.73018108,10.9384056
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,28.881658,35.02566608,23.60872991
+25,Maternal mortality ratio,543,Maryland,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,17.38140053,21.02056746,14.41368578
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,40.86761932,44.98366582,37.02596883
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,16.99149571,19.19656596,15.00961944
+25,Maternal mortality ratio,543,Maryland,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.09398761,21.79736505,14.64880924
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,61.45208762,75.04893492,50.59775231
+25,Maternal mortality ratio,543,Maryland,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,27.54759351,32.86703951,23.34260238
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,61.52296332,72.57124599,51.91218627
+25,Maternal mortality ratio,543,Maryland,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,28.77936834,36.89787535,22.79718894
+25,Maternal mortality ratio,544,Massachusetts,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,15.37809481,18.90142137,12.4037709
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,22.01054882,31.12222453,15.7216496
+25,Maternal mortality ratio,544,Massachusetts,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.25862733,17.56941088,9.986724869
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,37.54777655,50.74183328,28.35144122
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,9.769451915,15.16825561,6.700004963
+25,Maternal mortality ratio,544,Massachusetts,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.60818833,25.08507116,17.21845398
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,39.62152704,51.15520136,30.58463801
+25,Maternal mortality ratio,544,Massachusetts,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.54176869,22.46554707,15.41621527
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,42.23689888,66.08164133,27.44809769
+25,Maternal mortality ratio,544,Massachusetts,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,19.83448168,26.46176199,14.83661313
+25,Maternal mortality ratio,545,Michigan,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.07855267,13.27133135,9.157608183
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,25.64274838,32.08669051,20.75494111
+25,Maternal mortality ratio,545,Michigan,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.53989702,15.33014205,10.38934301
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,44.80922059,55.61772845,36.47396268
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.29118266,17.30631882,13.56076989
+25,Maternal mortality ratio,545,Michigan,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,21.35058571,25.11509207,18.13251964
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,50.363186,65.69430794,38.3068547
+25,Maternal mortality ratio,545,Michigan,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.64653554,29.43434903,19.32041473
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,54.25768776,61.36369641,47.68094868
+25,Maternal mortality ratio,545,Michigan,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,28.54762735,30.24227313,26.95482745
+25,Maternal mortality ratio,546,Minnesota,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.261806256,10.06258645,6.922202385
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,11.61049539,14.37918769,9.317361006
+25,Maternal mortality ratio,546,Minnesota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,10.19493196,12.40372844,8.309711427
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,23.26891517,27.66666144,19.40781606
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,10.33795038,14.34704466,7.450321728
+25,Maternal mortality ratio,546,Minnesota,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.30270426,22.17830066,14.91740068
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,30.32855506,42.67273274,21.02558429
+25,Maternal mortality ratio,546,Minnesota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,16.94884124,20.72664921,13.9951794
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,33.1692984,38.85609462,28.30758652
+25,Maternal mortality ratio,546,Minnesota,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,21.73759654,26.83116633,17.04587012
+25,Maternal mortality ratio,547,Mississippi,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,13.56675407,16.61330924,10.99219707
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,14.32651828,17.51379293,11.83956471
+25,Maternal mortality ratio,547,Mississippi,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.12452554,19.83349995,13.35168864
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,40.13719072,47.57339969,33.53099152
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.07344897,17.64277398,12.8936337
+25,Maternal mortality ratio,547,Mississippi,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.23952297,24.0341734,15.09596481
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,32.91680853,40.25299455,27.22046474
+25,Maternal mortality ratio,547,Mississippi,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,27.09642941,32.96003311,22.43224288
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,60.82057748,68.24969331,54.0841112
+25,Maternal mortality ratio,547,Mississippi,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,31.72904982,35.74855259,28.41701989
+25,Maternal mortality ratio,548,Missouri,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.467253429,11.41393115,7.842143689
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,21.41689422,26.44350609,17.06214656
+25,Maternal mortality ratio,548,Missouri,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.05606181,14.73552254,9.986523995
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,35.73166527,42.78583218,30.29940964
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.95985631,14.5682248,11.60688279
+25,Maternal mortality ratio,548,Missouri,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.44556763,23.17167324,16.18107364
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,49.5221161,63.85423828,37.54938704
+25,Maternal mortality ratio,548,Missouri,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,22.98641724,27.97275446,18.95381503
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,57.84721251,72.2952421,45.95802721
+25,Maternal mortality ratio,548,Missouri,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,30.64646079,34.23734105,27.36418543
+25,Maternal mortality ratio,549,Montana,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,18.73067262,22.42089471,15.56195464
+25,Maternal mortality ratio,549,Montana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,14.80307945,18.44464556,11.70313246
+25,Maternal mortality ratio,549,Montana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.19195218,18.58790988,12.67362221
+25,Maternal mortality ratio,549,Montana,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,32.62590195,49.36339152,21.80061117
+25,Maternal mortality ratio,549,Montana,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,19.06861602,27.10269725,13.84222264
+25,Maternal mortality ratio,549,Montana,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,17.65202506,21.59830109,14.14688316
+25,Maternal mortality ratio,549,Montana,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,31.36497253,70.36426139,15.07895631
+25,Maternal mortality ratio,549,Montana,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,19.93282094,24.47895932,16.39978323
+25,Maternal mortality ratio,549,Montana,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,38.02258811,53.71353664,27.21014645
+25,Maternal mortality ratio,549,Montana,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.68922908,25.6372924,16.88338859
+25,Maternal mortality ratio,550,Nebraska,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,7.849560628,9.550149737,6.426297411
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,9.327460288,11.56454785,7.434935927
+25,Maternal mortality ratio,550,Nebraska,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,11.42311811,13.96040911,9.254988788
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,28.74442203,34.61260451,23.74301182
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.81729189,15.51178784,10.78540043
+25,Maternal mortality ratio,550,Nebraska,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,15.37530622,18.58307092,12.81683517
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,23.17435885,30.98866869,17.36699547
+25,Maternal mortality ratio,550,Nebraska,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,19.23650802,23.16743138,15.91366545
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,38.09533999,46.11475272,31.5903593
+25,Maternal mortality ratio,550,Nebraska,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,24.51881561,28.09593865,21.3406824
+25,Maternal mortality ratio,551,Nevada,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.61932269,14.40525788,9.170091503
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,20.14706155,25.31832428,16.50176564
+25,Maternal mortality ratio,551,Nevada,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.77957963,19.67540251,12.93640322
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,33.10787758,46.26892644,23.51862521
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.69400496,17.11456548,12.41649363
+25,Maternal mortality ratio,551,Nevada,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.34576102,20.84911518,13.09139947
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,38.42637208,55.42058778,26.91389693
+25,Maternal mortality ratio,551,Nevada,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.70307645,28.31909262,19.25601558
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,29.32248843,39.47717642,21.46719031
+25,Maternal mortality ratio,551,Nevada,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.46511959,25.19355175,16.77053536
+25,Maternal mortality ratio,552,New Hampshire,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,16.901834,20.57017739,13.99807849
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,30.49267399,42.24681695,21.44935535
+25,Maternal mortality ratio,552,New Hampshire,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.70880471,16.47372955,9.775700309
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,44.94993011,56.26775997,36.28478629
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.11719708,19.14522562,12.00108981
+25,Maternal mortality ratio,552,New Hampshire,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,26.89660714,32.46229888,22.12613012
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,56.41606545,81.00132891,40.00835921
+25,Maternal mortality ratio,552,New Hampshire,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,21.14093459,25.12895638,17.28494197
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,67.72968121,88.48935795,50.97348166
+25,Maternal mortality ratio,552,New Hampshire,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,24.81872433,29.16816712,21.06269842
+25,Maternal mortality ratio,553,New Jersey,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,16.51857675,19.51357991,13.88560982
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,27.48580357,38.1554118,19.25892246
+25,Maternal mortality ratio,553,New Jersey,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,13.38808552,16.80974605,10.76520968
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,54.53728661,61.3455872,48.17874076
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.07217422,18.07084257,12.60060951
+25,Maternal mortality ratio,553,New Jersey,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,27.27394417,33.65298583,22.03913685
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,55.55565442,73.03872959,42.4462976
+25,Maternal mortality ratio,553,New Jersey,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.55461797,21.87469766,15.78789532
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,109.9177977,135.4185095,89.88102742
+25,Maternal mortality ratio,553,New Jersey,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,29.47549168,35.31624874,23.95803683
+25,Maternal mortality ratio,554,New Mexico,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,19.18443092,23.58748167,15.74840335
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,17.71671094,21.69659689,14.37703987
+25,Maternal mortality ratio,554,New Mexico,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.04999191,18.46441782,12.15911305
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,33.74063606,49.71566758,22.73525018
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,17.48529478,20.86523817,14.19888187
+25,Maternal mortality ratio,554,New Mexico,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,21.6050376,27.58975153,16.78007527
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,32.67565164,44.64541798,23.88629772
+25,Maternal mortality ratio,554,New Mexico,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.58348042,25.34137868,16.64853307
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,42.75281738,59.19988329,30.47125929
+25,Maternal mortality ratio,554,New Mexico,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,23.28211831,27.74645856,19.22192468
+25,Maternal mortality ratio,555,New York,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,17.89952841,19.69216777,16.30868428
+25,Maternal mortality ratio,555,New York,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,28.29256558,38.96773473,20.70407936
+25,Maternal mortality ratio,555,New York,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.56239481,19.75593344,13.99496752
+25,Maternal mortality ratio,555,New York,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,59.6248055,64.38659869,55.1331882
+25,Maternal mortality ratio,555,New York,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.06537603,15.18804582,12.91384154
+25,Maternal mortality ratio,555,New York,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,24.19897356,26.44427611,22.17625245
+25,Maternal mortality ratio,555,New York,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,45.74931223,58.57022504,35.69349736
+25,Maternal mortality ratio,555,New York,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,16.62364424,19.51072999,14.40340665
+25,Maternal mortality ratio,555,New York,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,74.55583166,77.56936277,71.35978461
+25,Maternal mortality ratio,555,New York,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,22.09885928,23.262349,20.90441215
+25,Maternal mortality ratio,556,North Carolina,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.236860336,9.815742194,6.933361529
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,18.87969465,22.76947541,15.24480824
+25,Maternal mortality ratio,556,North Carolina,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.03992425,16.86862413,11.55933588
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,38.11034225,42.95756389,34.06603789
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.28628718,15.76128543,9.595461977
+25,Maternal mortality ratio,556,North Carolina,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.5144936,21.06681963,12.71934255
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,37.93439285,45.5883063,31.39909303
+25,Maternal mortality ratio,556,North Carolina,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.25362147,28.68979294,19.32226414
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,58.69171083,69.93833128,49.08754118
+25,Maternal mortality ratio,556,North Carolina,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,26.18117228,32.48572311,20.94424961
+25,Maternal mortality ratio,557,North Dakota,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.28797669,13.82013415,9.268128196
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,9.994209405,12.59600137,8.090508561
+25,Maternal mortality ratio,557,North Dakota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.94974438,15.55117267,10.5102387
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,25.87489996,31.86247945,21.08973504
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.89467147,16.85928336,11.42362043
+25,Maternal mortality ratio,557,North Dakota,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,13.58775618,16.41109558,11.01798203
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,24.53786165,39.28995436,15.04247441
+25,Maternal mortality ratio,557,North Dakota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,14.52590069,17.72615943,12.16112123
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,23.61937072,28.66049776,19.21470111
+25,Maternal mortality ratio,557,North Dakota,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.68857313,24.76817772,17.19873343
+25,Maternal mortality ratio,558,Ohio,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.80542406,13.02578447,8.923911435
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,27.75627838,35.21620931,21.95933794
+25,Maternal mortality ratio,558,Ohio,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,12.93895894,15.71253828,10.68745199
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,33.19793037,37.04035625,29.92737592
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.73843797,14.97799675,12.60513812
+25,Maternal mortality ratio,558,Ohio,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.36852097,22.9388924,16.50316845
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,62.86351373,82.70710037,47.81270778
+25,Maternal mortality ratio,558,Ohio,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,21.3057034,26.19070071,17.3729094
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,49.81660074,55.91543836,44.91987029
+25,Maternal mortality ratio,558,Ohio,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,26.76674034,28.19195664,25.31896447
+25,Maternal mortality ratio,559,Oklahoma,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.38865576,13.78504661,9.58803793
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,18.34810523,22.29725499,15.1673687
+25,Maternal mortality ratio,559,Oklahoma,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.21367634,19.67173519,13.31285468
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,38.23742276,46.09599283,32.06586028
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,19.13813268,26.81213063,13.48430803
+25,Maternal mortality ratio,559,Oklahoma,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,20.29236722,24.89254306,16.58127011
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,32.27185359,37.94942016,27.62450256
+25,Maternal mortality ratio,559,Oklahoma,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.90284391,28.80558121,19.95056327
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,59.81639149,69.94463138,51.08352713
+25,Maternal mortality ratio,559,Oklahoma,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,32.9811966,38.16909101,28.35590075
+25,Maternal mortality ratio,560,Oregon,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,11.71956864,14.07918757,9.812844202
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,23.85970597,29.30520694,19.34915271
+25,Maternal mortality ratio,560,Oregon,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.51535722,17.69572251,11.76674763
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,32.08018007,45.47243318,21.93497813
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.84833443,17.75961922,12.40373167
+25,Maternal mortality ratio,560,Oregon,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.28466709,19.44344244,13.55585437
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,36.70318252,51.03565771,25.85182887
+25,Maternal mortality ratio,560,Oregon,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,20.87321754,24.95076387,17.36971974
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,33.87746184,45.76220966,24.80743706
+25,Maternal mortality ratio,560,Oregon,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.46353329,23.29288326,17.67953442
+25,Maternal mortality ratio,561,Pennsylvania,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,13.79825213,16.46003716,11.62028821
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,17.46133686,24.54580434,12.50554803
+25,Maternal mortality ratio,561,Pennsylvania,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.1829224,21.26179479,12.35466042
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,43.94071364,48.83753584,39.64639879
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.92584054,15.03354446,12.94033195
+25,Maternal mortality ratio,561,Pennsylvania,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,21.21584293,24.70012379,18.2041671
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,37.7545846,50.34821523,28.56234528
+25,Maternal mortality ratio,561,Pennsylvania,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.49237446,22.18695639,15.76745621
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,57.69523035,62.90681745,53.00894642
+25,Maternal mortality ratio,561,Pennsylvania,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,24.0205585,25.53534555,22.67656543
+25,Maternal mortality ratio,562,Rhode Island,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,14.79347684,17.76723667,12.26691017
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,10.07987249,13.83691457,7.155328816
+25,Maternal mortality ratio,562,Rhode Island,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,14.58940527,18.75182465,11.01713306
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,38.14581716,46.46932942,30.90493091
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.20773956,17.21766895,11.78847287
+25,Maternal mortality ratio,562,Rhode Island,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,22.47069778,27.10845763,18.69297355
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,27.02330276,36.33399967,20.74328045
+25,Maternal mortality ratio,562,Rhode Island,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,19.71994299,23.75363526,16.28082249
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,58.81043709,79.03775177,44.15977638
+25,Maternal mortality ratio,562,Rhode Island,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,26.38009916,32.06006082,21.74651256
+25,Maternal mortality ratio,563,South Carolina,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.616065805,11.71086723,7.884390916
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,28.98314299,35.29278743,23.61591264
+25,Maternal mortality ratio,563,South Carolina,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.32562456,19.51203752,13.4405904
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,39.69128902,44.22641927,35.40013434
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,16.11116675,18.36624916,14.1860273
+25,Maternal mortality ratio,563,South Carolina,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.03795886,22.88750009,14.40443741
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,57.20539553,69.29734813,46.71759847
+25,Maternal mortality ratio,563,South Carolina,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,27.2012915,33.03982718,22.49850087
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,73.47899024,80.43708713,67.10375245
+25,Maternal mortality ratio,563,South Carolina,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,31.1475678,35.23208867,27.30324113
+25,Maternal mortality ratio,564,South Dakota,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.379933732,11.3763773,7.734818815
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,9.489353833,12.09472792,7.494911522
+25,Maternal mortality ratio,564,South Dakota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,11.66309977,14.36764569,9.375297783
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,22.39161219,27.73184406,18.32119386
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,11.78688361,14.09680002,9.997095584
+25,Maternal mortality ratio,564,South Dakota,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,15.24028329,18.68334025,12.53491437
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,24.06929511,39.20084553,15.43250117
+25,Maternal mortality ratio,564,South Dakota,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.61834499,22.27933931,15.22292009
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,31.82113987,38.39230027,25.87921572
+25,Maternal mortality ratio,564,South Dakota,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,23.99901732,28.96007962,20.20777779
+25,Maternal mortality ratio,565,Tennessee,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,8.491737952,10.38934698,6.909999299
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,35.25647716,43.42513621,28.67329391
+25,Maternal mortality ratio,565,Tennessee,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.22940842,18.35041786,12.70489964
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,37.62657592,42.67400743,33.54576674
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.43402498,16.23257556,9.449572525
+25,Maternal mortality ratio,565,Tennessee,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.04278426,22.7498086,14.26248737
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,75.30868469,92.83563226,61.18978552
+25,Maternal mortality ratio,565,Tennessee,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,26.40418564,32.09056127,22.08427365
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,63.55179394,70.15560988,57.49658361
+25,Maternal mortality ratio,565,Tennessee,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,31.09655681,33.73492002,28.6737234
+25,Maternal mortality ratio,566,Texas,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,13.51699982,14.43180984,12.65777761
+25,Maternal mortality ratio,566,Texas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,33.47519401,40.87568094,27.81223792
+25,Maternal mortality ratio,566,Texas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.9081642,18.48775642,13.50329861
+25,Maternal mortality ratio,566,Texas,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,42.9087403,46.97803525,39.28657765
+25,Maternal mortality ratio,566,Texas,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,18.12498561,20.0540875,16.25826304
+25,Maternal mortality ratio,566,Texas,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,25.18722896,26.37118055,24.09544312
+25,Maternal mortality ratio,566,Texas,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,56.41967538,68.81595572,46.53463013
+25,Maternal mortality ratio,566,Texas,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,23.08034474,28.00892529,19.38501887
+25,Maternal mortality ratio,566,Texas,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,82.96292033,91.57205077,75.15815812
+25,Maternal mortality ratio,566,Texas,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,40.1958811,43.56796842,36.89794987
+25,Maternal mortality ratio,567,Utah,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.87888482,12.9185148,9.140204785
+25,Maternal mortality ratio,567,Utah,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,16.32983121,20.20400455,13.49919708
+25,Maternal mortality ratio,567,Utah,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,11.7271485,14.43559628,9.506328946
+25,Maternal mortality ratio,567,Utah,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,24.35178394,35.63093964,16.1636542
+25,Maternal mortality ratio,567,Utah,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,10.65787102,12.68226582,8.867624574
+25,Maternal mortality ratio,567,Utah,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,15.4183701,19.34575115,12.11429622
+25,Maternal mortality ratio,567,Utah,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,30.73964124,44.80758627,21.36692201
+25,Maternal mortality ratio,567,Utah,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,17.14325216,20.73163614,13.96342518
+25,Maternal mortality ratio,567,Utah,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,27.8973336,38.45638542,20.04263565
+25,Maternal mortality ratio,567,Utah,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,17.27672826,21.73111394,13.58421717
+25,Maternal mortality ratio,568,Vermont,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,33.93100516,44.34097966,26.26535922
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,47.57713586,78.9039455,29.08468379
+25,Maternal mortality ratio,568,Vermont,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,19.57207274,24.96332211,14.905239
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,55.67569601,70.0376494,44.33610635
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.96847727,16.76228195,11.49904164
+25,Maternal mortality ratio,568,Vermont,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,38.04967384,46.53130844,30.96053474
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,47.08464282,63.27513214,35.02379234
+25,Maternal mortality ratio,568,Vermont,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,21.43296136,26.02558064,17.73781539
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,63.15220274,82.40703178,46.79002599
+25,Maternal mortality ratio,568,Vermont,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,24.54235196,29.26734994,20.51110076
+25,Maternal mortality ratio,569,Virginia,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,10.99684887,13.86564187,8.721136129
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,47.09972269,57.77980198,38.33762221
+25,Maternal mortality ratio,569,Virginia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.7408032,19.00739743,13.06556927
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,33.98959127,43.1347357,27.15741646
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,12.53942101,16.04760653,9.709515112
+25,Maternal mortality ratio,569,Virginia,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,19.81707078,24.53650738,16.11348499
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,68.59274703,84.45429505,56.06261433
+25,Maternal mortality ratio,569,Virginia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,25.08418844,33.66359686,19.26089075
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,59.75408787,71.61295618,50.36873738
+25,Maternal mortality ratio,569,Virginia,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,27.72648686,32.34822527,23.2773743
+25,Maternal mortality ratio,570,Washington,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,12.74504514,15.19739533,10.81535987
+25,Maternal mortality ratio,570,Washington,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,21.50090214,27.02255153,17.34472139
+25,Maternal mortality ratio,570,Washington,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,15.09708614,17.91846452,12.62854317
+25,Maternal mortality ratio,570,Washington,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,27.48500353,37.7349738,20.10395238
+25,Maternal mortality ratio,570,Washington,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,13.6061592,16.69991969,10.90100054
+25,Maternal mortality ratio,570,Washington,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,15.476091,18.77952227,12.88981218
+25,Maternal mortality ratio,570,Washington,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,36.80152474,52.69085998,25.51199851
+25,Maternal mortality ratio,570,Washington,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,19.02963613,22.6060125,15.85320583
+25,Maternal mortality ratio,570,Washington,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,33.13410604,41.54983676,26.3869991
+25,Maternal mortality ratio,570,Washington,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,20.82889675,22.84421783,19.02936672
+25,Maternal mortality ratio,571,West Virginia,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,28.19203742,34.93999128,23.06055564
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,46.28343142,68.87667888,32.30785977
+25,Maternal mortality ratio,571,West Virginia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,20.81472014,25.44786359,17.17651518
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,46.37494966,55.88500922,38.60926092
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.76725496,18.19414841,13.44610286
+25,Maternal mortality ratio,571,West Virginia,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,30.97801358,38.78662758,23.84034781
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,71.94083774,95.68550052,54.44828745
+25,Maternal mortality ratio,571,West Virginia,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,31.61099156,38.60191235,26.01459373
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,72.87908021,88.280007,59.44729885
+25,Maternal mortality ratio,571,West Virginia,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,31.07793001,35.79739447,26.86065521
+25,Maternal mortality ratio,572,Wisconsin,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,9.200854873,11.18660584,7.563253867
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,12.38281151,15.4272788,10.12486389
+25,Maternal mortality ratio,572,Wisconsin,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,10.07900609,12.33815653,8.217676261
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,30.21369381,37.00645386,25.40954523
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,14.25735395,15.91585641,12.78763929
+25,Maternal mortality ratio,572,Wisconsin,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,18.49726105,22.33456801,15.20294987
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,32.46166376,42.93565346,24.7421632
+25,Maternal mortality ratio,572,Wisconsin,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.40589478,21.95323795,15.16940158
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,40.39587638,48.02388913,34.18612
+25,Maternal mortality ratio,572,Wisconsin,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,24.17575854,28.86748515,20.14739493
+25,Maternal mortality ratio,573,Wyoming,Hispanic and any race,2,Female,169,10 to 54,1999-2009,3,Rate,15.39968556,18.61669832,12.71007001
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,1999-2009,3,Rate,14.53692224,18.35297945,11.8287878
+25,Maternal mortality ratio,573,Wyoming,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,1999-2009,3,Rate,16.10355206,19.54381421,13.20520079
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic Black,2,Female,169,10 to 54,1999-2009,3,Rate,32.67911743,48.26231726,21.6001082
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic White,2,Female,169,10 to 54,1999-2009,3,Rate,15.95490968,20.22524765,12.56663344
+25,Maternal mortality ratio,573,Wyoming,Hispanic and any race,2,Female,169,10 to 54,2010-2019,3,Rate,16.07927956,19.6182828,13.10351735
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic American Indian and Alaska Native,2,Female,169,10 to 54,2010-2019,3,Rate,24.0262477,34.55844558,17.21560112
+25,Maternal mortality ratio,573,Wyoming,"Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander",2,Female,169,10 to 54,2010-2019,3,Rate,18.82608849,23.30461355,15.24956316
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic Black,2,Female,169,10 to 54,2010-2019,3,Rate,39.50456072,55.56032475,28.63313415
+25,Maternal mortality ratio,573,Wyoming,Non-Hispanic White,2,Female,169,10 to 54,2010-2019,3,Rate,19.65895084,24.33514169,15.82190151

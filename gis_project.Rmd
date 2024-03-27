@@ -1,0 +1,54 @@
+---
+title: "gis project data cleaning"
+author: "Camille Okonkwo"
+date: "2024-03-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+MMR_edit = read_csv("data/MMR_2019_edit.csv")
+
+MMR_2019_edit_Hispanic =
+  MMR_edit |> 
+  filter(year_id == "2019",
+         race_group == "Hispanic and any race")
+
+write.csv(MMR_2019_edit_Hispanic, "data/MMR_2019_edit_Hispanic.csv", row.names = FALSE)
+
+MMR_2019_edit_Native =
+  MMR_edit |> 
+  filter(year_id == "2019",
+         race_group == "Non-Hispanic American Indian and Alaska Native")
+
+write.csv(MMR_2019_edit_Native, "data/MMR_2019_edit_Native.csv", row.names = FALSE)
+
+MMR_2019_edit_Asian =
+  MMR_edit |> 
+  filter(year_id == "2019",
+         race_group == "Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander")
+
+write.csv(MMR_2019_edit_Asian, "data/MMR_2019_edit_Asian.csv", row.names = FALSE)
+
+MMR_2019_edit_Black =
+  MMR_edit |> 
+  filter(year_id == "2019",
+         race_group == "Non-Hispanic Black")
+
+write.csv(MMR_2019_edit_Black, "data/MMR_2019_edit_Black.csv", row.names = FALSE)
+
+MMR_2019_edit_White =
+  MMR_edit |> 
+  filter(year_id == "2019",
+         race_group == "Non-Hispanic White")
+
+write.csv(MMR_2019_edit_White, "data/MMR_2019_edit_White.csv", row.names = FALSE)
+
+
+
+```
+

@@ -1,0 +1,57 @@
+"measure_id","measure_name","location_id","location_name","race_group","sex_id","sex_name","age_group_id","age_group_name","year_id","metric_id","metric_name","val","lower","upper"
+25,"Maternal mortality ratio","01","Alabama","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",3.915523408,0.122296895,63.8805396
+25,"Maternal mortality ratio","02","Alaska","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",59.19324363,19.48794422,154.7837035
+25,"Maternal mortality ratio","04","Arizona","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",92.8373446,41.97791957,167.1299579
+25,"Maternal mortality ratio","05","Arkansas","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",3.711435714,0.138907756,43.47328787
+25,"Maternal mortality ratio","06","California","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",39.68461496,12.10449923,115.7150025
+25,"Maternal mortality ratio","08","Colorado","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",33.16678442,4.755724721,158.481542
+25,"Maternal mortality ratio","09","Connecticut","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",9.787372507,0.01001368,352.8974402
+25,"Maternal mortality ratio","10","Delaware","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",16.28579114,0.186665468,937.9458732
+25,"Maternal mortality ratio","11","District of Columbia","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",8.251573406,0.023788561,2638.10111
+25,"Maternal mortality ratio","12","Florida","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",62.5647919,4.842599108,364.5084899
+25,"Maternal mortality ratio","13","Georgia","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",76.23636029,5.199444387,549.7184494
+25,"Maternal mortality ratio","15","Hawaii","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",14.71803198,0.305546745,605.9302852
+25,"Maternal mortality ratio","16","Idaho","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",286.188343,75.4902719,859.2415948
+25,"Maternal mortality ratio","17","Illinois","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",10.59843686,0.61936872,134.7748913
+25,"Maternal mortality ratio","18","Indiana","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",88.84688158,7.31396771,856.1736431
+25,"Maternal mortality ratio","19","Iowa","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",139.1039843,17.79585306,848.3561691
+25,"Maternal mortality ratio","20","Kansas","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",55.06230226,5.837730339,330.3416638
+25,"Maternal mortality ratio","21","Kentucky","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",8.381611974,0.246337057,153.2913078
+25,"Maternal mortality ratio","22","Louisiana","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",52.9248469,5.539389611,269.0843907
+25,"Maternal mortality ratio","23","Maine","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",5.951840631,0.009983568,223.0622614
+25,"Maternal mortality ratio","24","Maryland","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",8.072621748,0.297231038,79.55381618
+25,"Maternal mortality ratio","25","Massachusetts","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",132.6507791,0.508996127,746.4859228
+25,"Maternal mortality ratio","26","Michigan","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",96.44778382,18.67274711,369.0711503
+25,"Maternal mortality ratio",NA,"Midwest Census Region","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",94.24240575,45.40208617,193.4411086
+25,"Maternal mortality ratio","27","Minnesota","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",78.24313742,21.28272734,208.3687779
+25,"Maternal mortality ratio","28","Mississippi","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",8.083719059,0.567382823,68.6355315
+25,"Maternal mortality ratio","29","Missouri","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",65.24185826,8.143596948,376.6843524
+25,"Maternal mortality ratio","30","Montana","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",85.06690249,26.9101519,210.5279656
+25,"Maternal mortality ratio","102","National","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",69.27733343,45.50619122,108.0739159
+25,"Maternal mortality ratio","31","Nebraska","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",180.4857683,37.20996565,551.083303
+25,"Maternal mortality ratio","32","Nevada","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",59.26062723,8.951296151,330.9476809
+25,"Maternal mortality ratio","33","New Hampshire","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",269.6653747,0.853662267,2748.309981
+25,"Maternal mortality ratio","34","New Jersey","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",49.18210235,0.115596991,560.9300521
+25,"Maternal mortality ratio","35","New Mexico","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",34.81222887,8.762454635,108.4247241
+25,"Maternal mortality ratio","36","New York","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",14.1422051,0.065013521,113.8886169
+25,"Maternal mortality ratio","37","North Carolina","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",42.58685617,6.766998054,111.5726154
+25,"Maternal mortality ratio","38","North Dakota","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",103.5210233,27.44632939,260.5271167
+25,"Maternal mortality ratio",NA,"Northeast Census Region","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",33.57929202,5.748879207,205.9457206
+25,"Maternal mortality ratio","39","Ohio","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",11.46395086,0.93180529,103.4128505
+25,"Maternal mortality ratio","40","Oklahoma","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",32.00805383,7.46066514,64.59651431
+25,"Maternal mortality ratio","41","Oregon","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",24.72461962,3.109642245,162.9997798
+25,"Maternal mortality ratio","42","Pennsylvania","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",25.32717497,0.07323119,358.8912809
+25,"Maternal mortality ratio","44","Rhode Island","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",11.07881138,0.012343486,477.058055
+25,"Maternal mortality ratio",NA,"South Census Region","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",34.11244925,15.817235,68.21343188
+25,"Maternal mortality ratio","45","South Carolina","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",56.69838859,2.916098311,573.9680679
+25,"Maternal mortality ratio","46","South Dakota","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",129.7734906,45.60751911,247.1001761
+25,"Maternal mortality ratio","47","Tennessee","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",87.18679358,6.330470195,582.1552553
+25,"Maternal mortality ratio","48","Texas","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",23.92336877,2.486268675,117.4016843
+25,"Maternal mortality ratio","49","Utah","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",300.846985,91.96764501,812.7502316
+25,"Maternal mortality ratio","50","Vermont","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",4.620636361,8.08e-05,2755.781491
+25,"Maternal mortality ratio","51","Virginia","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",49.44707922,2.136528986,514.7749291
+25,"Maternal mortality ratio","53","Washington","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",194.2458724,86.5785522,402.0100742
+25,"Maternal mortality ratio",NA,"West Census Region","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",83.26693503,42.36582209,149.7389364
+25,"Maternal mortality ratio","54","West Virginia","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",20.47943736,0.088879548,2303.55994
+25,"Maternal mortality ratio","55","Wisconsin","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",26.86619749,3.926155973,119.9701051
+25,"Maternal mortality ratio","56","Wyoming","Non-Hispanic American Indian and Alaska Native",2,"Female",169,"10 to 54",2019,3,"Rate",99.64713244,15.23058874,541.1238393
