@@ -48,7 +48,103 @@ MMR_2019_edit_White =
 
 write.csv(MMR_2019_edit_White, "data/MMR_2019_edit_White.csv", row.names = FALSE)
 
+```
 
+# Comparative Boxplot
+```{r}
+str(MMR_edit)
 
+MMR_edit = as.data.frame(MMR_edit)
+
+locations_to_exclude <- c("National", "Midwest Census Region", "Northeast Census Region", "South Census Region", "West Census Region")
+
+boxplot =
+  MMR_edit |> 
+  mutate( 
+    type = 
+      ifelse(race_group =="Non-Hispanic Black","Highlighted","Normal")) |> 
+  filter(!location_name %in% locations_to_exclude,
+         race_group != "All racial and ethnic groups") |> 
+  ggplot(aes(
+    x = fct_reorder(race_group, val, .fun = median, .desc = TRUE),  # Corrected argument name
+    y = val,
+    color = race_group,
+    fill = type)) +
+  geom_boxplot(alpha = 0.5) +
+  labs(x = "Race", y = "MMR per 100K",
+       title = " U.S. Maternal Mortality Rate, 2019",
+       color = "Race Group") +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        legend.position = "right") +
+  guides(fill = FALSE) +
+  scale_x_discrete("") +
+  scale_fill_manual(values = c("#67000d", "#fff5f0")) +
+  scale_color_manual(values = c("Non-Hispanic Black" = "#67000d",
+                                "Non-Hispanic American Indian and Alaska Native" = "#d32020",
+                                "Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander" = "#fb7050",
+                                "Non-Hispanic White" = "#f44d38",
+                                "Hispanic and any race" = "#fcbea5")) +
+    geom_hline(yintercept = y , linetype = "dashed", size = 1)
+
+boxplot  # Display the boxplot
+
+boxplot2 =
+  MMR_edit |> 
+  filter(!location_name %in% locations_to_exclude,
+         race_group != "All racial and ethnic groups") |> 
+  mutate(
+    "Non-Hispanic Black" = "Black",
+    "Non-Hispanic American Indian and Alaska Native" = "American Indian & Alaska Native",
+    "Non-Hispanic Asian, Native Hawaiian, or Other Pacific Islander" = " Asian & Pacific Islander",
+    "Non-Hispanic White" = "White",
+    "Hispanic and any race" = "Hispanic"
+  ) |> 
+  ggplot(aes(
+    x = fct_reorder(race_group, val, .fun = median, .desc = TRUE),  # Corrected argument name
+    y = val,
+    color = race_group,
+    fill = race_group)) +
+  geom_boxplot(alpha = 0.5) +
+  labs(x = "Race", y = "MMR per 100K",
+       title = " U.S. Maternal Mortality Rate, 2019",
+       color = "Race Group") +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        legend.position = "right") +
+  guides(fill = FALSE) +
+  scale_x_discrete("") +
+  scale_fill_manual(values = c("Black" = "#67000d",
+                                "American Indian & Alaska Native" = "#d32020",
+                                " Asian & Pacific Islander" = "#fb7050",
+                                "White" = "#f44d38",
+                                "Hispanic" = "#fcbea5")) +
+  scale_color_manual(values = c("Black" = "#67000d",
+                                "American Indian & Alaska Native" = "#d32020",
+                                "Asian & Pacific Islander" = "#fb7050",
+                                "Non-Hispanic White" = "#f44d38",
+                                "Hispanic and any race" = "#fcbea5")) +
+  theme_classic()
+
+print(boxplot2)
+
+```
+
+# descriptive statistics
+```{r}
+y_int = MMR_edit[146,13]
+
+y = 32.2162091
+```
+
+```{r}
+library(table1)
+descriptive_table <- table1(~ location_name*val,
+                            data = MMR_edit,
+                            overall = "Total",
+                            caption = "Descriptive Characteristics of Participants, Stratified by Source Study, Excluding Outliers")
+
+ds2 = t1kable(descriptive_table)
+ds2
 ```
 
