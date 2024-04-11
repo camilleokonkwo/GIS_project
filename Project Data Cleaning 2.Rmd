@@ -1,5 +1,5 @@
 ---
-title: "Project Data Cleaning"
+title: "Untitled"
 author: "Camille Okonkwo"
 date: "2024-04-11"
 output: html_document
@@ -8,6 +8,73 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(purrr)
+library(stringr)
+```
+
+# Loading 2008-2019 poverty data
+```{r}
+# Function to load and process CSV files
+load_poverty_data = function(directory_path) {
+  # Get list of CSV files in the directory
+  files = list.files(path = directory_path, pattern = "poverty_\\d{4}\\.csv$", full.names = TRUE)
+  
+  # Read and process each CSV file
+  data_list = purrr::map(files, ~ {
+    # Extract year from the file name
+    year = as.integer(stringr::str_extract(basename(.x), "\\d{4}"))
+    
+    # Read the CSV file
+    data = read.csv(.x)
+    
+    # Add a column for the year_id
+    data = dplyr::mutate(data, year_id = year)
+    
+    return(data)
+  })
+  
+  # Merge all data frames into one
+  merged_data = dplyr::bind_rows(data_list)
+  
+  return(merged_data)
+}
+
+directory_path = "data/poverty_data/"
+poverty = load_poverty_data(directory_path)
+```
+
+# Renaming and pivoting the data
+```{r}
+poverty = poverty |> 
+  dplyr::rename(
+    "Asian/Native Hawaiian and Pacific Islander" = `Asian.Native.Hawaiian.and.Pacific.Islander`,
+    "American Indian/Alaska Native" = `American.Indian.Alaska.Native`
+  ) |> 
+  dplyr::mutate(
+    `White` = as.double(`White`),
+    `Black` = as.double(`Black`),
+    `Hispanic` = as.double(`Hispanic`),
+    `American Indian/Alaska Native` = as.double(`American Indian/Alaska Native`),
+    `Asian/Native Hawaiian and Pacific Islander` = as.double(`Asian/Native Hawaiian and Pacific Islander`),
+  ) |> 
+  dplyr::select(-Multiple.Races, -Footnotes)
+
+poverty_long =
+  poverty |> 
+  tidyr::pivot_longer(cols = c(-Location, -year_id), names_to = "race_group", values_to = "poverty_rate") |> 
+  dplyr::mutate(
+    race_group = ifelse(race_group == "Total", "All race/ethnicities", race_group),
+    Location = ifelse(Location == "United States", "National", Location)
+  ) |> 
+  janitor::clean_names() |> 
+  dplyr::rename(location_name = location) |> 
+  mutate(
+    pc_poverty = poverty_rate*100
+  ) |> 
+  dplyr::mutate(
+    pc_poverty = ifelse(is.na(poverty_rate), 0, poverty_rate * 100),
+    poverty_rate = ifelse(is.na(poverty_rate), 0, poverty_rate)
+  )
 ```
 
 # Loading MMR Data
@@ -29,41 +96,14 @@ mmr = read_csv("data/MMR_data/US_MMR_1999_2019_ESTIMATES.csv") |>
   )
 ```
 
-# Loading Poverty Data
-```{r}
-poverty = read_csv("data/2015_poverty.csv", col_types = cols(
-  Location = col_character(),
-  Black = col_double(),
-  Hispanic = col_double(),
-  `Asian/Native Hawaiian and Pacific Islander` = col_double(),
-  `American Indian/Alaska Native` = col_double(),
-  `Multiple Races` = col_double(),
-  White = col_double(),
-  Total = col_double()
-))
-
-poverty =
-  poverty |> 
-  select(-`Multiple Races`)
-
-poverty_long =
-  poverty |> 
-  pivot_longer(cols = c(-Location), names_to = "race_group", values_to = "poverty_rate") |> 
-  mutate(race_group = ifelse(race_group == "Total", "All race/ethnicities", race_group),
-         Location = ifelse(Location == "United States", "National", Location)) |> 
-  janitor::clean_names() |> 
-  mutate(year_id = 2015) |> 
-  rename(location_name = location)
-```
-
 # Merging Datasets
 ```{r}
-mmr_2015 =
+mmr_filtered =
   mmr |> 
-  filter(year_id == "2015")
+  dplyr::filter(year_id %in% 2008:2019)
 
 merged_data =
-  inner_join(mmr_2015, poverty_long, by = intersect(names(mmr_2015), names(poverty_long))) |> 
+  inner_join(mmr_filtered, poverty_long, by = intersect(names(mmr_filtered), names(poverty_long))) |> 
   mutate(location_id = as.character(location_id))
 
 # adding GIS location_id identifier
@@ -94,13 +134,18 @@ mmr_poverty =
   select(location_id, location_name, race_group, year_id, mmr,lower_mmr, upper_mmr, poverty_rate)
 ```
 
-# Extracting data for Black Population
+# Extracting data for Black Population: 2008-2019
 ```{r}
-black_mmr_poverty =
-  mmr_poverty |> 
-  filter(race_group %in% c("Black", "All race/ethnicities"))
+# Function to filter data and write to CSV for a range of years
+filter_and_write_csv_range =
+  function(data, start_year, end_year, race_group, output_directory) {
+  for (year in start_year:end_year) {
+    filtered_data <- data |> dplyr::filter(race_group %in% c("Black", "All race/ethnicities") & year_id == year)
+    output_file <- paste0(output_directory, "/black_mmr_poverty_", year, ".csv")
+    write.csv(filtered_data, output_file, row.names = FALSE)
+  }
+}
 
-
-write.csv(black_mmr_poverty, "data/black_mmr_poverty_2015.csv", row.names = FALSE)
+filter_and_write_csv_range(mmr_poverty, 2008, 2019, "Black", "data")
 ```
 
