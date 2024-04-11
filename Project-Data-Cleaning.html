@@ -453,9 +453,10 @@ mmr_poverty =
 <h1>Extracting data for Black Population</h1>
 <pre class="r"><code>black_mmr_poverty =
   mmr_poverty |&gt; 
-  filter(race_group == &quot;Black&quot;)
+  filter(race_group %in% c(&quot;Black&quot;, &quot;All race/ethnicities&quot;))
 
-write.csv(black_mmr_poverty, &quot;data/black_mmr_poverty_2015&quot;, row.names = FALSE)</code></pre>
+
+write.csv(black_mmr_poverty, &quot;data/black_mmr_poverty_2015.csv&quot;, row.names = FALSE)</code></pre>
 </div>
 
 

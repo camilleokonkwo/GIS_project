@@ -1,0 +1,57 @@
+"measure_id","measure_name","location_id","location_name","race_group","sex_id","sex_name","age_group_id","age_group_name","year_id","metric_id","metric_name","val","lower","upper"
+25,"Maternal mortality ratio","01","Alabama","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",16.1375434,4.887122648,48.36007663
+25,"Maternal mortality ratio","02","Alaska","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",9.283169112,1.636027731,49.12797143
+25,"Maternal mortality ratio","04","Arizona","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",32.13618773,19.6396198,51.81342274
+25,"Maternal mortality ratio","05","Arkansas","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",28.94620911,11.31815102,68.88437754
+25,"Maternal mortality ratio","06","California","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",15.0669665,9.521382204,22.31005676
+25,"Maternal mortality ratio","08","Colorado","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",30.2923973,11.82952307,67.81819531
+25,"Maternal mortality ratio","09","Connecticut","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",22.10988175,10.40160188,44.49507203
+25,"Maternal mortality ratio","10","Delaware","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",2.35825857,0.601131596,8.528411683
+25,"Maternal mortality ratio","11","District of Columbia","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",5.810389005,0.970543898,26.85478262
+25,"Maternal mortality ratio","12","Florida","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",19.12816351,12.66617128,27.07782858
+25,"Maternal mortality ratio","13","Georgia","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",21.9665701,12.07615311,39.18152718
+25,"Maternal mortality ratio","15","Hawaii","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",13.93503587,3.58683612,49.61980571
+25,"Maternal mortality ratio","16","Idaho","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",21.78864957,7.046411177,70.26900045
+25,"Maternal mortality ratio","17","Illinois","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",11.90138241,5.707576834,20.3686634
+25,"Maternal mortality ratio","18","Indiana","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",19.84443945,7.332353148,44.70131746
+25,"Maternal mortality ratio","19","Iowa","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",21.76142476,6.385223892,59.24179428
+25,"Maternal mortality ratio","20","Kansas","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",19.25716691,6.639889896,43.89233972
+25,"Maternal mortality ratio","21","Kentucky","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",11.27399758,3.76354811,28.99902101
+25,"Maternal mortality ratio","22","Louisiana","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",18.53635788,7.914733727,41.51377752
+25,"Maternal mortality ratio","23","Maine","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",5.86763132,0.51873704,64.70153118
+25,"Maternal mortality ratio","24","Maryland","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",16.90291711,8.647143728,32.7202165
+25,"Maternal mortality ratio","25","Massachusetts","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",16.31882781,7.047915716,36.82888635
+25,"Maternal mortality ratio","26","Michigan","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",22.96883529,7.924183261,51.46855813
+25,"Maternal mortality ratio",NA,"Midwest Census Region","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",15.44274823,8.957273741,27.00168958
+25,"Maternal mortality ratio","27","Minnesota","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",10.36578022,2.350906498,36.09073509
+25,"Maternal mortality ratio","28","Mississippi","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",25.93452953,7.580063061,77.18390237
+25,"Maternal mortality ratio","29","Missouri","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",29.89538793,9.441460127,73.43822944
+25,"Maternal mortality ratio","30","Montana","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",11.31303703,1.639021231,73.59547411
+25,"Maternal mortality ratio","102","National","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",20.79423258,16.96260676,26.1542954
+25,"Maternal mortality ratio","31","Nebraska","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",15.55580021,3.55375766,50.51623842
+25,"Maternal mortality ratio","32","Nevada","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",11.19103777,4.450810304,27.23957924
+25,"Maternal mortality ratio","33","New Hampshire","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",2.543399234,0.301715322,20.39072997
+25,"Maternal mortality ratio","34","New Jersey","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",41.42470801,27.27398926,58.17738207
+25,"Maternal mortality ratio","35","New Mexico","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",24.76112976,12.02029584,45.88911751
+25,"Maternal mortality ratio","36","New York","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",32.17617343,22.32226266,45.45842256
+25,"Maternal mortality ratio","37","North Carolina","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",18.8425268,8.966709844,36.61380065
+25,"Maternal mortality ratio","38","North Dakota","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",28.70937548,2.431302174,244.6222096
+25,"Maternal mortality ratio",NA,"Northeast Census Region","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",30.23276199,19.98070372,44.99986943
+25,"Maternal mortality ratio","39","Ohio","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",10.80007788,2.997474969,32.66916576
+25,"Maternal mortality ratio","40","Oklahoma","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",29.90367127,13.48542643,73.82613935
+25,"Maternal mortality ratio","41","Oregon","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",14.09569328,5.311851969,34.41849643
+25,"Maternal mortality ratio","42","Pennsylvania","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",25.0141764,13.9869252,41.17180292
+25,"Maternal mortality ratio","44","Rhode Island","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",23.11830446,7.323084224,67.21122934
+25,"Maternal mortality ratio",NA,"South Census Region","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",21.12807948,15.27607652,28.24637524
+25,"Maternal mortality ratio","45","South Carolina","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",15.63103928,6.068695891,33.98366526
+25,"Maternal mortality ratio","46","South Dakota","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",25.29927983,4.288803919,132.7666067
+25,"Maternal mortality ratio","47","Tennessee","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",32.01641864,9.072381357,100.7547328
+25,"Maternal mortality ratio","48","Texas","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",21.91068705,15.41547241,28.3663754
+25,"Maternal mortality ratio","49","Utah","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",17.92595962,7.702804528,39.99536325
+25,"Maternal mortality ratio","50","Vermont","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",6.518722697,0.312193375,169.7404227
+25,"Maternal mortality ratio","51","Virginia","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",23.91187226,9.220816274,63.37688387
+25,"Maternal mortality ratio","53","Washington","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",19.6041583,9.692717604,35.69170594
+25,"Maternal mortality ratio",NA,"West Census Region","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",18.2806281,11.86634266,28.28791139
+25,"Maternal mortality ratio","54","West Virginia","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",5.552709894,0.795949774,37.96916147
+25,"Maternal mortality ratio","55","Wisconsin","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",8.047175228,1.89627629,26.99854965
+25,"Maternal mortality ratio","56","Wyoming","Hispanic and any race",2,"Female",169,"10 to 54",2019,3,"Rate",25.47812358,7.02192893,97.20851526

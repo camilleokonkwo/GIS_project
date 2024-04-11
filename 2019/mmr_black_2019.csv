@@ -1,0 +1,57 @@
+"measure_name","location_id","location_name","race_group","year_id","MMR","lower_MMR","upper_MMR"
+"Maternal mortality ratio","01","Alabama","Black",2019,78.16197372,55.0357767,114.388424
+"Maternal mortality ratio","02","Alaska","Black",2019,33.08788115,2.75509422,340.536865
+"Maternal mortality ratio","04","Arizona","Black",2019,122.813615,60.27174886,235.3327343
+"Maternal mortality ratio","05","Arkansas","Black",2019,88.90109102,57.48899695,134.3361186
+"Maternal mortality ratio","06","California","Black",2019,48.99055371,27.26109946,81.05808862
+"Maternal mortality ratio","08","Colorado","Black",2019,29.43045472,8.681108384,78.61733378
+"Maternal mortality ratio","09","Connecticut","Black",2019,50.55092396,26.31656773,95.32591481
+"Maternal mortality ratio","10","Delaware","Black",2019,56.93410285,32.63918307,102.2288192
+"Maternal mortality ratio","11","District of Columbia","Black",2019,107.4220279,68.79812518,165.4736031
+"Maternal mortality ratio","12","Florida","Black",2019,66.35067642,53.01498827,82.05723937
+"Maternal mortality ratio","13","Georgia","Black",2019,100.903138,82.57729068,121.7270294
+"Maternal mortality ratio","15","Hawaii","Black",2019,3.601544627,0.483513084,25.08420561
+"Maternal mortality ratio","16","Idaho","Black",2019,74.15048677,14.21021006,359.095371
+"Maternal mortality ratio","17","Illinois","Black",2019,21.82824272,11.96789458,38.54660562
+"Maternal mortality ratio","18","Indiana","Black",2019,39.16820045,19.95798302,67.83044516
+"Maternal mortality ratio","19","Iowa","Black",2019,24.29513443,8.069276175,70.89421129
+"Maternal mortality ratio","20","Kansas","Black",2019,91.83357642,35.72132992,216.0924177
+"Maternal mortality ratio","21","Kentucky","Black",2019,75.02502898,48.42473918,116.3688384
+"Maternal mortality ratio","22","Louisiana","Black",2019,71.15699722,52.29401714,93.22205018
+"Maternal mortality ratio","23","Maine","Black",2019,59.70718204,14.64283076,225.1834678
+"Maternal mortality ratio","24","Maryland","Black",2019,60.65364045,45.57793644,82.07347137
+"Maternal mortality ratio","25","Massachusetts","Black",2019,23.56914154,11.21218951,49.22561077
+"Maternal mortality ratio","26","Michigan","Black",2019,55.40846288,34.83399952,86.55001617
+"Maternal mortality ratio",NA,"Midwest Census Region","Black",2019,42.22573144,26.89469437,63.03301695
+"Maternal mortality ratio","27","Minnesota","Black",2019,25.01193919,11.6958682,52.56846729
+"Maternal mortality ratio","28","Mississippi","Black",2019,97.23292168,68.43378426,134.1775632
+"Maternal mortality ratio","29","Missouri","Black",2019,38.11530379,20.92312414,68.87930731
+"Maternal mortality ratio","30","Montana","Black",2019,95.3393767,8.050051291,810.242687
+"Maternal mortality ratio","102","National","Black",2019,67.63021141,56.65179325,80.17692315
+"Maternal mortality ratio","31","Nebraska","Black",2019,30.09326686,10.39627025,97.37695891
+"Maternal mortality ratio","32","Nevada","Black",2019,29.60652245,11.37412388,70.30429962
+"Maternal mortality ratio","33","New Hampshire","Black",2019,33.19937917,5.008271291,208.5498795
+"Maternal mortality ratio","34","New Jersey","Black",2019,119.6475462,91.84959003,158.707169
+"Maternal mortality ratio","35","New Mexico","Black",2019,57.56695746,13.83704907,246.227343
+"Maternal mortality ratio","36","New York","Black",2019,109.9093223,86.55862773,135.0045268
+"Maternal mortality ratio","37","North Carolina","Black",2019,73.99225192,52.85951022,102.3299799
+"Maternal mortality ratio","38","North Dakota","Black",2019,12.99444126,1.974717895,83.24113921
+"Maternal mortality ratio",NA,"Northeast Census Region","Black",2019,89.48196797,62.30913483,126.2619298
+"Maternal mortality ratio","39","Ohio","Black",2019,59.66027758,37.11407887,91.09201196
+"Maternal mortality ratio","40","Oklahoma","Black",2019,61.06826302,35.11670989,106.2766316
+"Maternal mortality ratio","41","Oregon","Black",2019,27.61234517,5.86479615,126.3082252
+"Maternal mortality ratio","42","Pennsylvania","Black",2019,72.24026464,55.58061362,93.27135831
+"Maternal mortality ratio","44","Rhode Island","Black",2019,22.06316783,5.954977286,80.49974671
+"Maternal mortality ratio",NA,"South Census Region","Black",2019,73.73101263,58.26607628,91.05868242
+"Maternal mortality ratio","45","South Carolina","Black",2019,74.92273474,51.32576951,107.1288367
+"Maternal mortality ratio","46","South Dakota","Black",2019,44.86791458,7.116866688,253.4530029
+"Maternal mortality ratio","47","Tennessee","Black",2019,76.28412865,55.61995591,100.71587
+"Maternal mortality ratio","48","Texas","Black",2019,54.36753188,42.88059349,69.5916917
+"Maternal mortality ratio","49","Utah","Black",2019,34.03133947,5.665898959,167.8686724
+"Maternal mortality ratio","50","Vermont","Black",2019,6.017233618,0.281039156,139.58219
+"Maternal mortality ratio","51","Virginia","Black",2019,62.79375682,42.72472814,92.50362277
+"Maternal mortality ratio","53","Washington","Black",2019,44.9161487,16.28344576,95.82666164
+"Maternal mortality ratio",NA,"West Census Region","Black",2019,51.6083227,30.02661749,85.68101026
+"Maternal mortality ratio","54","West Virginia","Black",2019,53.12888739,18.58182007,138.7980362
+"Maternal mortality ratio","55","Wisconsin","Black",2019,39.78830023,19.65067727,76.38123151
+"Maternal mortality ratio","56","Wyoming","Black",2019,14.80040446,1.030780969,187.203373

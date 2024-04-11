@@ -98,8 +98,9 @@ mmr_poverty =
 ```{r}
 black_mmr_poverty =
   mmr_poverty |> 
-  filter(race_group == "Black")
+  filter(race_group %in% c("Black", "All race/ethnicities"))
 
-write.csv(black_mmr_poverty, "data/black_mmr_poverty_2015", row.names = FALSE)
+
+write.csv(black_mmr_poverty, "data/black_mmr_poverty_2015.csv", row.names = FALSE)
 ```
 
